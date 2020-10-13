@@ -5,8 +5,8 @@ Para el rediseño se escogieron las barras 0, 1, 2, 28 y 29
 
 La función de rediseño de cada barra es la siguiente:
 
-´´´
-	def rediseñar(self, Fu, ϕ=0.9):
+´´´	
+def rediseñar(self, Fu, ϕ=0.9):
 		"""Para la fuerza Fu (proveniente de una combinacion de cargas)
 		re-calcular el radio y el espesor de la barra de modo que
 		se cumplan las disposiciones de diseño lo más cerca posible
